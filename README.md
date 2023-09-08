@@ -33,7 +33,7 @@ The RTRO-DRM dataset is licensed under Creative Commons Attribution 4.0 Internat
 
 The audio files are provided in 24-bit WAV format and encoded at 44.1kHz.
 
-Direct Download (3.7GB) [rtro_drm_id_001.tar.gz](https://zenodo.org/record/7523435/files/hh_lfbb_lps_mid_001-009.tar.gz?download=1)
+Direct Download (3.7GB) [rtro_drm_id_001.tar.gz](https://zenodo.org/record/8327650/files/rtro_drm_id_001.tar.gz?download=1)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7523435.svg)](https://doi.org/10.5281/zenodo.7523435)
 ## File Name Reference
@@ -55,7 +55,7 @@ author = {WaivOps},
 title = {RTRO-DRM},
 year = {2023},
 doi = {10.5281/zenodo.8327650},
-url = {https://doi.org/10.5281/zenodo.7523435},
+url = {https://doi.org/10.5281/zenodo.8327650},
 }
 ```
 ## Additional Info
