@@ -4,7 +4,7 @@
 
 ## RTRO-DRM Dataset
 
-RTRO-DRM is an open audio dataset composed of a series of drum recordings in the style of 1980s electronic music. The dataset comprises 2138 raw, unedited audio loops recorded in uncompressed stereo WAV format. These recordings were curated using an internal drum sample dataset and MIDI files sourced from a code-based music generation system, along with a MIDI transformer model trained on more than 30,000 MIDI files. The files primarily consist of recordings that may not meet conventional audio quality standards but can still be valuable for a range of applications and research projects.
+RTRO-DRM is an open audio dataset composed of a series of drum recordings in the style of 1980s electronic music. The dataset comprises 2138 raw, unedited audio clips recorded in uncompressed stereo WAV format. These recordings were curated using an internal drum sample dataset and MIDI files sourced from a code-based music generation system, along with a MIDI transformer model trained on more than 30,000 MIDI files. The files primarily consist of recordings that may not meet conventional audio quality standards but can still be valuable for a range of applications and research projects.
 
 ## Dataset
 
