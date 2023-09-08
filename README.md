@@ -4,7 +4,7 @@
 
 ## RTRO-DRM Dataset
 
-RTRO-DRM is an open audio dataset composed of a series of drum recordings in the style of 1980s retro music. The dataset contains 2138 raw audio loops recorded in uncompressed stereo WAV format. The files are predomiantly standard quality obtained during testing of a geneative music system currently under devleopment.
+RTRO-DRM is an open audio dataset composed of a series of drum recordings in the style of 1980s retro electronic music. The dataset comprises 2138 raw, unedited audio loops recorded in uncompressed stereo WAV format. These recordings were curated using an internal drum sample dataset and MIDI files sourced from a code-based music generation system, along with a MIDI transformer model trained on more than 30,000 MIDI files. The files primarily consist of recordings that may not meet conventional audio quality standards but can still be valuable for a range of applications and research projects.
 
 ## Dataset
 
@@ -28,7 +28,7 @@ See examples folder to preview mp3 demos.
 
 This dataset is developed by WaivOps, a crowdsourced music project managed by sound label company Patchbanks. All recordings have been compiled by verified sources for copyright clearance.
 
-The HH-LFBB dataset is licensed under Creative Commons Attribution 4.0 International [(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+The RTRO-DRM dataset is licensed under Creative Commons Attribution 4.0 International [(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 ## Download
 
 The audio files are provided in 24-bit WAV format and encoded at 44.1kHz.
@@ -54,7 +54,7 @@ If you use this dataset for a research or development project, please cite the f
 author = {WaivOps},
 title = {RTRO-DRM},
 year = {2023},
-doi = {10.5281/zenodo.7523435},
+doi = {10.5281/zenodo.8327650},
 url = {https://doi.org/10.5281/zenodo.7523435},
 }
 ```
