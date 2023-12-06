@@ -52,7 +52,7 @@ If you use this dataset for a research or development project, please cite the f
 ```bash
 @misc{RTRO-DRM,
 author = {WaivOps},
-title = {RTRO-DRM},
+title = {WaivOps RTRO-DRM: Open Audio Resources for Machine Learning in Music},
 year = {2023},
 doi = {10.5281/zenodo.8327650},
 url = {https://doi.org/10.5281/zenodo.8327650},
